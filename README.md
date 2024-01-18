@@ -1,6 +1,9 @@
 # Cartridge-Masking
 ## Step: Clone this directory
 
+## List of Folders that you won't find here (Due to limited file size on Github):
+    - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
+
 ## Execution
     - If you want to check whole model training  & Steps (Estimated Time: 2 to 3 minutes).
         * Open ImageSegmentation.ipynb --> Run All Cells.
@@ -20,10 +23,6 @@
         - image_folder_name/masks/masks.png
     - Stage1_test/
         - image_folder/images/image.png
-
-
-## List of Folders that you won't find here (Due to limited file size on Github):
-    - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
 
 
 ## Want to Avoid Checking on Implementation & Directly GOTO Check the results ?
