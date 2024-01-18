@@ -1,5 +1,6 @@
 # Cartridge-Masking
 ## Step: Clone this directory
+## Best Suggestion (saved model high accuracy): clone directory --> install requirements.txt --> Run Python Moduler_File.py
 
 ## List of Folders that you won't find here (Due to limited file size on Github):
     - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
