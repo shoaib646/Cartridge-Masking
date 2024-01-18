@@ -5,7 +5,7 @@
     - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
 
 ## Execution
-    - If you want to check whole model training  & Steps (Estimated Time: 2 to 3 minutes).
+    - If you want to check whole model training  & Steps (Estimated Time: 1 to 3 minutes).
         * Open ImageSegmentation.ipynb --> Run All Cells.
 
     - If you want to just check with final output of Auto Masking.
