@@ -5,11 +5,11 @@
     - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
 
 ## Execution
-    - If you want to check whole model training  & Steps (Estimated Time: 1 to 3 minutes).
+    - If you want to check whole model training  & Steps (Estimated Time: 1 to 3 minutes) (Jupyter-Notebook).
         * Open ImageSegmentation.ipynb --> Run All Cells.
 
-    - If you want to just check with final output of Auto Masking.
-        * Run --> Python Modular_File.py (Make sure to download model_for_cartridge.h5 & processed_data.npz)
+    - If you want to just check with final output of Auto Masking through code.
+        * Run --> Python Modular_File.py (Make sure to download model_for_cartridge.h5 & processed_data.npz) (Modular Script)
         * once Execution Starts Remember to close the Performance matrix window to get towards end.
 
 
