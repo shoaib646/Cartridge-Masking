@@ -26,7 +26,7 @@
     - Stage1_train & Stage1_test, Find those @ (Google Drive)[https://drive.google.com/drive/folders/1E5vm-jyJsukBBDQ2-2hMdVGdMDfQyUEb?usp=drive_link]
 
 
-## Want to Avoid to Checking on Implementation & Directly Check the results ?
+## Want to Avoid Checking on Implementation & Directly GOTO Check the results ?
     - After cloning or go through  saved_plots folder to check the result
   
 
