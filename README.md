@@ -27,7 +27,7 @@
         - image_folder/images/image.png
 
 
-## Want to Avoid Checking on Implementation & Directly GOTO Check the results ?
+## Want to Avoid Checking on Implementation & Directly GOTO Check the results ? check below
     - After cloning or go through  saved_plots folder to check the result
   
 
