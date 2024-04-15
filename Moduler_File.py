@@ -21,7 +21,7 @@ import os
 
 
 
-# Constants
+# Constants (default)
 DATA_SAVE_PATH = 'processed_data.npz'
 MODEL_SAVE_PATH = 'model_for_cartridge.h5'
 TRAIN_PATH = './Stage1_train/'
